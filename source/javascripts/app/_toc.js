@@ -1,3 +1,8 @@
+jiovdjfidj{
+  jiqjfjesjfsueijs what ihspaening; 
+  console.log(fsjiojosefois); blalblablla
+}
+
 //= require ../lib/_jquery
 //= require ../lib/_imagesloaded.min
 ;(function () {
